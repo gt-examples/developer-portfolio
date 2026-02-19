@@ -1,0 +1,767 @@
+{
+  "0f6f57f24f953e28": [
+    {
+      "c": "À propos",
+      "i": 1,
+      "t": "Link"
+    },
+    {
+      "c": "Projets",
+      "i": 2,
+      "t": "Link"
+    },
+    {
+      "c": "Contact",
+      "i": 3,
+      "t": "Link"
+    }
+  ],
+  "3060382cadbb98d6": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Distributed Task Scheduler",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2023",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Un planificateur de tâches tolérant aux pannes qui distribue le travail sur plusieurs nœuds. Comprend des files d'attente prioritaires, une logique de nouvelle tentative et la gestion des messages non traités. Traite plus de deux millions de tâches quotidiennement en production.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Rust",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Redis",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "gRPC",
+            "i": 9,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "30e35e49d433ca4d": "Alex Chen",
+  "39da63e2b4a8f786": {
+    "c": [
+      {
+        "c": "Construit avec Next.js et General Translation",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "Tout le contenu traduit avec gt-next",
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "3dcac4b6e2c2d8f5": {
+    "c": [
+      {
+        "c": "Projets en vedette",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": "Voir tous les projets",
+        "i": 3,
+        "t": "Link"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "458f289b6dfd8180": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Générateur de documentation développeur",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2020",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Un outil qui génère une documentation API interactive à partir d'annotations de code source. Prend en charge plusieurs langages et produit des sites statiques consultables avec des exemples de code en direct.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "TypeScript",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Node.js",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "MDX",
+            "i": 9,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "5e9e79d31dbe6439": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Transaction Monitoring System",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2021",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Un système en temps réel pour détecter les transactions financières suspectes. Traite cinquante mille événements par seconde avec une alerte en moins d'une seconde. Utilisé par des clients entreprises dans plusieurs secteurs.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Python",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Kafka",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "PostgreSQL",
+            "i": 9,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "6820084b3fab1b09": [
+    {
+      "c": "Projets",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Une sélection de projets que j'ai construits ou auxquels j'ai contribué. Chacun reflète un souci de fiabilité, de performance et de conception réfléchie.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "7f55ea4e2958416e": {
+    "c": [
+      {
+        "c": "Distributed Task Scheduler",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Un planificateur de tâches tolérant aux pannes qui distribue le travail sur plusieurs nœuds. Comprend des files d'attente prioritaires, une logique de nouvelle tentative et la gestion des messages non traités.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Rust",
+            "i": 5,
+            "t": "span"
+          },
+          {
+            "c": "Redis",
+            "i": 6,
+            "t": "span"
+          },
+          {
+            "c": "gRPC",
+            "i": 7,
+            "t": "span"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "942633d71f37d198": [
+    {
+      "c": "À propos",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": [
+        {
+          "c": "Parcours",
+          "i": 3,
+          "t": "h2"
+        },
+        {
+          "c": [
+            {
+              "c": "Je suis développeur full-stack avec plus de huit ans d'expérience dans la création d'applications web et de systèmes distribués. J'ai étudié l'informatique à l'Université de Washington et j'ai travaillé dans des startups et des entreprises de taille intermédiaire dans les domaines de la fintech, des outils pour développeurs et de l'infrastructure cloud.",
+              "i": 5,
+              "t": "p"
+            },
+            {
+              "c": "Mon travail est axé sur la création de logiciels fiables, faciles à maintenir et agréables à utiliser. J'accorde de l'importance à un code propre, à des tests rigoureux et à une documentation claire.",
+              "i": 6,
+              "t": "p"
+            }
+          ],
+          "i": 4,
+          "t": "div"
+        }
+      ],
+      "i": 2,
+      "t": "section"
+    },
+    {
+      "c": [
+        {
+          "c": "Compétences techniques",
+          "i": 8,
+          "t": "h2"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": "Langages",
+                  "i": 11,
+                  "t": "h3"
+                },
+                {
+                  "c": "TypeScript, Go, Rust, Python, SQL",
+                  "i": 12,
+                  "t": "p"
+                }
+              ],
+              "i": 10,
+              "t": "div"
+            },
+            {
+              "c": [
+                {
+                  "c": "Frontend",
+                  "i": 14,
+                  "t": "h3"
+                },
+                {
+                  "c": "React, Next.js, Tailwind CSS, D3.js",
+                  "i": 15,
+                  "t": "p"
+                }
+              ],
+              "i": 13,
+              "t": "div"
+            },
+            {
+              "c": [
+                {
+                  "c": "Backend",
+                  "i": 17,
+                  "t": "h3"
+                },
+                {
+                  "c": "Node.js, PostgreSQL, Redis, gRPC",
+                  "i": 18,
+                  "t": "p"
+                }
+              ],
+              "i": 16,
+              "t": "div"
+            },
+            {
+              "c": [
+                {
+                  "c": "Infrastructure",
+                  "i": 20,
+                  "t": "h3"
+                },
+                {
+                  "c": "AWS, GCP, Docker, Kubernetes, Terraform",
+                  "i": 21,
+                  "t": "p"
+                }
+              ],
+              "i": 19,
+              "t": "div"
+            }
+          ],
+          "i": 9,
+          "t": "div"
+        }
+      ],
+      "i": 7,
+      "t": "section"
+    },
+    {
+      "c": [
+        {
+          "c": "Expérience",
+          "i": 23,
+          "t": "h2"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": "Ingénieur logiciel senior",
+                  "i": 26,
+                  "t": "h3"
+                },
+                {
+                  "c": "Nimbus Cloud, 2021 à aujourd'hui",
+                  "i": 27,
+                  "t": "p"
+                },
+                {
+                  "c": "Pilotage du développement de la plateforme de déploiement interne. Conception du système d'ordonnancement des tâches traitant plus de deux millions de jobs par jour. Réduction des échecs de déploiement de quarante pour cent grâce à la détection automatisée des retours arrière.",
+                  "i": 28,
+                  "t": "p"
+                }
+              ],
+              "i": 25,
+              "t": "div"
+            },
+            {
+              "c": [
+                {
+                  "c": "Ingénieur logiciel",
+                  "i": 30,
+                  "t": "h3"
+                },
+                {
+                  "c": "Ledger Finance, 2018 à 2021",
+                  "i": 31,
+                  "t": "p"
+                },
+                {
+                  "c": "Développement du système de surveillance des transactions en temps réel, gérant cinquante mille événements par seconde. Création du tableau de bord analytique destiné aux clients, utilisé par plus de trois cents entreprises clientes.",
+                  "i": 32,
+                  "t": "p"
+                }
+              ],
+              "i": 29,
+              "t": "div"
+            },
+            {
+              "c": [
+                {
+                  "c": "Développeur junior",
+                  "i": 34,
+                  "t": "h3"
+                },
+                {
+                  "c": "Spark Studios, 2016 à 2018",
+                  "i": 35,
+                  "t": "p"
+                },
+                {
+                  "c": "Contribution aux applications web clients et aux outils internes. Introduction de pratiques de tests automatisés ayant permis d'améliorer la couverture du code de trente à quatre-vingt-cinq pour cent.",
+                  "i": 36,
+                  "t": "p"
+                }
+              ],
+              "i": 33,
+              "t": "div"
+            }
+          ],
+          "i": 24,
+          "t": "div"
+        }
+      ],
+      "i": 22,
+      "t": "section"
+    }
+  ],
+  "956214268f9cfc30": [
+    {
+      "c": "Développeur full-stack spécialisé dans la création de logiciels fiables",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Je conçois et développe des applications web, des outils pour développeurs et des systèmes distribués. Axé sur une architecture propre, la performance et l'expérience développeur.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "9e2d76927b33f4aa": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Tableau de bord analytique en temps réel",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2023",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Un tableau de bord web pour surveiller les métriques de performance des applications en temps réel. Conçu avec des pipelines de données en flux continu et des visualisations interactives. Gère des milliers de connexions simultanées.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "TypeScript",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "React",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "WebSocket",
+            "i": 9,
+            "t": "span"
+          },
+          {
+            "c": "D3",
+            "i": 10,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "b6c52133ee42261f": {
+    "c": [
+      {
+        "c": "Real-time Analytics Dashboard",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Un tableau de bord web pour surveiller les métriques de performance des applications en temps réel. Conçu avec des pipelines de données en streaming et des visualisations interactives.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "TypeScript",
+            "i": 5,
+            "t": "span"
+          },
+          {
+            "c": "React",
+            "i": 6,
+            "t": "span"
+          },
+          {
+            "c": "WebSocket",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "D3",
+            "i": 8,
+            "t": "span"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "b94dbf2cbab272f8": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "API Gateway Framework",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2022",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Une passerelle API légère avec limitation de débit intégrée, authentification et transformation des requêtes. Conçue pour les architectures de microservices avec une configuration minimale.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Go",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Redis",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "Docker",
+            "i": 9,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "cd0aeb2f35783874": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Nom",
+            "i": 3,
+            "t": "label"
+          },
+          {
+            "d": {
+              "pl": "Your name"
+            },
+            "i": 4,
+            "t": "input"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "E-mail",
+            "i": 6,
+            "t": "label"
+          },
+          {
+            "d": {
+              "pl": "you@example.com"
+            },
+            "i": 7,
+            "t": "input"
+          }
+        ],
+        "i": 5,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Message",
+            "i": 9,
+            "t": "label"
+          },
+          {
+            "d": {
+              "pl": "Your message"
+            },
+            "i": 10,
+            "t": "textarea"
+          }
+        ],
+        "i": 8,
+        "t": "div"
+      },
+      {
+        "c": "Envoyer le message",
+        "i": 11,
+        "t": "button"
+      }
+    ],
+    "i": 1,
+    "t": "form"
+  },
+  "ce91de25881f7953": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Cloud Infrastructure CLI",
+            "i": 3,
+            "t": "h2"
+          },
+          {
+            "c": "2024",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Un outil en ligne de commande pour gérer les déploiements multi-cloud. Prend en charge AWS, GCP et Azure avec une configuration unifiée et des capacités de retour arrière. Écrit en Go avec une prise en charge étendue des plugins.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Go",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "AWS",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "GCP",
+            "i": 9,
+            "t": "span"
+          },
+          {
+            "c": "Azure",
+            "i": 10,
+            "t": "span"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  },
+  "dfbfd9f5475a7e5e": [
+    {
+      "c": "Contact",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Intéressé(e) par une collaboration ou vous avez une question ? Envoyez-moi un message via le formulaire ci-dessous.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "e48b65a2e78a88ba": {
+    "c": [
+      {
+        "c": "Cloud Infrastructure CLI",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Un outil en ligne de commande pour gérer les déploiements multi-cloud. Prend en charge AWS, GCP et Azure avec une configuration unifiée et des capacités de rollback.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Go",
+            "i": 5,
+            "t": "span"
+          },
+          {
+            "c": "AWS",
+            "i": 6,
+            "t": "span"
+          },
+          {
+            "c": "GCP",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Azure",
+            "i": 8,
+            "t": "span"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "article"
+  }
+}
