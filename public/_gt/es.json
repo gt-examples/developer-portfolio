@@ -116,7 +116,7 @@
         "t": "div"
       },
       {
-        "c": "Una herramienta que genera documentación interactiva de API a partir de anotaciones en el código fuente. Compatible con múltiples lenguajes y genera sitios estáticos con búsqueda integrada y ejemplos de código en vivo.",
+        "c": "Una herramienta que genera documentación de API interactiva a partir de anotaciones en el código fuente. Compatible con múltiples lenguajes y genera sitios estáticos con búsqueda integrada y ejemplos de código en vivo.",
         "i": 5,
         "t": "p"
       },
@@ -164,7 +164,7 @@
         "t": "div"
       },
       {
-        "c": "Un sistema en tiempo real para detectar transacciones financieras sospechosas. Procesa cincuenta mil eventos por segundo con alertas en menos de un segundo. Utilizado por clientes empresariales en múltiples industrias.",
+        "c": "Un sistema en tiempo real para detectar transacciones financieras sospechosas. Procesa cincuenta mil eventos por segundo con generación de alertas en menos de un segundo. Utilizado por clientes empresariales en múltiples industrias.",
         "i": 5,
         "t": "p"
       },
@@ -200,11 +200,12 @@
       "t": "h1"
     },
     {
-      "c": "Una selección de proyectos que he desarrollado o en los que he contribuido. Cada uno refleja un enfoque en la fiabilidad, el rendimiento y el diseño cuidadoso.",
+      "c": "Una selección de proyectos que he desarrollado o en los que he colaborado. Cada uno refleja un enfoque en la fiabilidad, el rendimiento y un diseño cuidadoso.",
       "i": 2,
       "t": "p"
     }
   ],
+  "690639c3b95cd56f": "Un portfolio de desarrollador multilingüe con proyectos, página de inicio y formulario de contacto.",
   "7f55ea4e2958416e": {
     "c": [
       {
@@ -258,12 +259,12 @@
         {
           "c": [
             {
-              "c": "Soy un desarrollador full-stack con más de ocho años de experiencia en el desarrollo de aplicaciones web y sistemas distribuidos. Estudié ciencias de la computación en la Universidad de Washington y he trabajado en startups y empresas medianas en los sectores de tecnología financiera, herramientas para desarrolladores e infraestructura en la nube.",
+              "c": "Soy un desarrollador full-stack con más de ocho años de experiencia construyendo aplicaciones web y sistemas distribuidos. Estudié ciencias de la computación en la Universidad de Washington y he trabajado en startups y empresas medianas en los sectores de fintech, herramientas para desarrolladores e infraestructura en la nube.",
               "i": 5,
               "t": "p"
             },
             {
-              "c": "Mi trabajo se centra en crear software confiable, fácil de mantener y agradable de usar. Me importa el código limpio, las pruebas exhaustivas y la documentación clara.",
+              "c": "Mi trabajo se centra en construir software confiable, fácil de mantener y agradable de usar. Me importa el código limpio, las pruebas exhaustivas y la documentación clara.",
               "i": 6,
               "t": "p"
             }
@@ -378,7 +379,7 @@
                   "t": "p"
                 },
                 {
-                  "c": "Lidero el desarrollo de la plataforma de despliegue interna. Diseñé el sistema de programación de tareas que procesa más de dos millones de trabajos diarios. Reduje los fallos de despliegue en un cuarenta por ciento mediante la detección automatizada de reversiones.",
+                  "c": "Liderando el desarrollo de la plataforma de despliegue interna. Diseñé el sistema de programación de tareas que procesa más de dos millones de trabajos diarios. Reduje los fallos de despliegue en un cuarenta por ciento mediante la detección automatizada de reversiones.",
                   "i": 28,
                   "t": "p"
                 }
@@ -399,7 +400,7 @@
                   "t": "p"
                 },
                 {
-                  "c": "Desarrollé el sistema de monitoreo de transacciones en tiempo real que gestiona cincuenta mil eventos por segundo. Creé el panel de análisis orientado al cliente utilizado por más de trescientas empresas corporativas.",
+                  "c": "Construí el sistema de monitoreo de transacciones en tiempo real que gestiona cincuenta mil eventos por segundo. Desarrollé el panel de análisis orientado al cliente utilizado por más de trescientos clientes empresariales.",
                   "i": 32,
                   "t": "p"
                 }
@@ -420,7 +421,7 @@
                   "t": "p"
                 },
                 {
-                  "c": "Contribuí al desarrollo de aplicaciones web para clientes y herramientas internas. Introduje prácticas de pruebas automatizadas que mejoraron la cobertura de código del treinta al ochenta y cinco por ciento.",
+                  "c": "Contribuí a aplicaciones web para clientes y herramientas internas. Introduje prácticas de pruebas automatizadas que mejoraron la cobertura de código del treinta al ochenta y cinco por ciento.",
                   "i": 36,
                   "t": "p"
                 }
@@ -468,7 +469,7 @@
         "t": "div"
       },
       {
-        "c": "Un panel web para monitorear métricas de rendimiento de aplicaciones en tiempo real. Construido con canalizaciones de datos en streaming y visualizaciones interactivas. Maneja miles de conexiones simultáneas.",
+        "c": "Un panel web para monitorear métricas de rendimiento de aplicaciones en tiempo real. Desarrollado con canalizaciones de datos en streaming y visualizaciones interactivas. Gestiona miles de conexiones simultáneas.",
         "i": 5,
         "t": "p"
       },
@@ -510,7 +511,7 @@
         "t": "h3"
       },
       {
-        "c": "Un panel web para monitorear métricas de rendimiento de aplicaciones en tiempo real. Desarrollado con canalizaciones de datos en streaming y visualizaciones interactivas.",
+        "c": "Un panel web para monitorear métricas de rendimiento de aplicaciones en tiempo real. Construido con canalizaciones de datos en streaming y visualizaciones interactivas.",
         "i": 3,
         "t": "p"
       },
@@ -676,7 +677,7 @@
         "t": "div"
       },
       {
-        "c": "Una herramienta de línea de comandos para gestionar implementaciones multinube. Compatible con AWS, GCP y Azure, con configuración unificada y capacidades de reversión. Escrita en Go con amplia compatibilidad con plugins.",
+        "c": "Una herramienta de línea de comandos para gestionar implementaciones multi-nube. Compatible con AWS, GCP y Azure, con configuración unificada y capacidades de reversión. Escrita en Go con amplia compatibilidad con plugins.",
         "i": 5,
         "t": "p"
       },
@@ -710,6 +711,7 @@
     "i": 1,
     "t": "article"
   },
+  "d80ed3ae39ee2812": "Portfolio de desarrollador | Traducción general",
   "dfbfd9f5475a7e5e": [
     {
       "c": "Contacto",

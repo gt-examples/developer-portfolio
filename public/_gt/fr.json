@@ -116,7 +116,7 @@
         "t": "div"
       },
       {
-        "c": "Un outil qui génère une documentation API interactive à partir d'annotations de code source. Prend en charge plusieurs langages et produit des sites statiques consultables avec des exemples de code en direct.",
+        "c": "Un outil qui génère de la documentation API interactive à partir d'annotations de code source. Prend en charge plusieurs langages et produit des sites statiques consultables avec des exemples de code en direct.",
         "i": 5,
         "t": "p"
       },
@@ -205,6 +205,7 @@
       "t": "p"
     }
   ],
+  "690639c3b95cd56f": "Portfolio développeur multilingue comprenant des projets, une page À propos et un formulaire de contact.",
   "7f55ea4e2958416e": {
     "c": [
       {
@@ -258,7 +259,7 @@
         {
           "c": [
             {
-              "c": "Je suis développeur full-stack avec plus de huit ans d'expérience dans la création d'applications web et de systèmes distribués. J'ai étudié l'informatique à l'Université de Washington et j'ai travaillé dans des startups et des entreprises de taille intermédiaire dans les domaines de la fintech, des outils pour développeurs et de l'infrastructure cloud.",
+              "c": "Je suis développeur full-stack avec plus de huit ans d'expérience dans la conception d'applications web et de systèmes distribués. J'ai étudié l'informatique à l'Université de Washington et j'ai travaillé dans des startups et des entreprises de taille intermédiaire dans les domaines de la fintech, des outils pour développeurs et de l'infrastructure cloud.",
               "i": 5,
               "t": "p"
             },
@@ -399,7 +400,7 @@
                   "t": "p"
                 },
                 {
-                  "c": "Développement du système de surveillance des transactions en temps réel, gérant cinquante mille événements par seconde. Création du tableau de bord analytique destiné aux clients, utilisé par plus de trois cents entreprises clientes.",
+                  "c": "Développement du système de surveillance des transactions en temps réel, capable de traiter cinquante mille événements par seconde. Création du tableau de bord analytique destiné aux clients, utilisé par plus de trois cents entreprises clientes.",
                   "i": 32,
                   "t": "p"
                 }
@@ -420,7 +421,7 @@
                   "t": "p"
                 },
                 {
-                  "c": "Contribution aux applications web clients et aux outils internes. Introduction de pratiques de tests automatisés ayant permis d'améliorer la couverture du code de trente à quatre-vingt-cinq pour cent.",
+                  "c": "Contribution aux applications web clients et aux outils internes. Mise en place de pratiques de tests automatisés ayant permis d'améliorer la couverture du code de trente à quatre-vingt-cinq pour cent.",
                   "i": 36,
                   "t": "p"
                 }
@@ -710,6 +711,7 @@
     "i": 1,
     "t": "article"
   },
+  "d80ed3ae39ee2812": "Portfolio développeur | Traduction générale",
   "dfbfd9f5475a7e5e": [
     {
       "c": "Contact",
@@ -717,7 +719,7 @@
       "t": "h1"
     },
     {
-      "c": "Intéressé(e) par une collaboration ou vous avez une question ? Envoyez-moi un message via le formulaire ci-dessous.",
+      "c": "Vous souhaitez collaborer ou avez une question ? Envoyez-moi un message via le formulaire ci-dessous.",
       "i": 2,
       "t": "p"
     }
