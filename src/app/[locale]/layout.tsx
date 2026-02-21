@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { GTProvider } from "gt-next";
+import { T } from "gt-next";
 import { getGT } from "gt-next/server";
 import "./globals.css";
 
@@ -61,7 +62,16 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body className={`${geistSans.variable} antialiased`}>
-        <GTProvider>{children}</GTProvider>
+        <GTProvider>
+          <div className="bg-neutral-900 border-b border-neutral-800 px-4 py-2 text-center text-xs text-neutral-400">
+            <T>
+              This is a demo application built with{" "}
+              <a href="https://generaltranslation.com" className="underline hover:text-neutral-200" target="_blank" rel="noopener noreferrer">General Translation</a>
+              {" "}to showcase multilingual support. Not a real portfolio.
+            </T>
+          </div>
+          {children}
+        </GTProvider>
       </body>
     </html>
   );
